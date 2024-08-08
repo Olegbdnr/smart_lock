@@ -1,1 +1,1 @@
-Smart Lock
+Simple passcode based door lock system
